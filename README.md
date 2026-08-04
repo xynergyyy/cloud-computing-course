@@ -18,6 +18,15 @@ This repository serves as my organized workspace for all course requirements, in
 - **Instructor:** JENKIELYN TORRES
 - **School Year:** 2026–2027
 
+## 📖 Key Concepts Covered
+
+- Cloud Computing Basics
+- Service Models (IaaS, PaaS, SaaS)
+- Deployment Models (Public, Private, Hybrid, Community)
+- Version Control with Git & GitHub)
+- Cloud Infrastructure Management
+
+
 ## 📂 Repository Structure
 
 ```text
@@ -28,10 +37,3 @@ cloud-computing-course/
 ├── reflections/
 └── README.md
 
-## 📖 Key Concepts Covered
-
-- Cloud Computing Basics
-- Service Models (IaaS, PaaS, SaaS)
-- Deployment Models (Public, Private, Hybrid, Community)
-- Version Control with Git & GitHub)
-- Cloud Infrastructure Management
